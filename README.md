@@ -1,6 +1,7 @@
 # GYMWEBSITE_DJANGO
 HOMEPAGE:
-file:///C:/Users/win%2010/Downloads/home.png
+//C:/Users/win%2010/Downloads/home.png
+
 LOGIN:
 file:///C:/Users/win%2010/Downloads/login.png
 SIGNUP:
