@@ -1,20 +1,22 @@
 # GYMWEBSITE_DJANGO
 HOMEPAGE:
-//C:/Users/win%2010/Downloads/home.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/home.png)
 
 LOGIN:
-file:///C:/Users/win%2010/Downloads/login.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/login.png)
 SIGNUP:
-file:///C:/Users/win%2010/Downloads/signup.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/signup.png)
 ENROLL:
-file:///C:/Users/win%2010/Downloads/enroll.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/enroll.png)
 ATTENDENSE:
-file:///C:/Users/win%2010/Downloads/attendence.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/attendence.png)
 PROFILE:
-file:///C:/Users/win%2010/Downloads/attendence1234.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/attendence1234.png)
+CONTACTUS:
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/contactus.png)
 ABOUT:
-file:///C:/Users/win%2010/Downloads/abt.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/abt.png)
 GALLERY:
-file:///C:/Users/win%2010/Downloads/gallery.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/gallery.png)
 SERVICES:
-file:///C:/Users/win%2010/Downloads/services.png
+![Screenshot (09)](https://github.com/Divyp842/GYMWEBSITE_DJANGO/blob/main/services.png)
