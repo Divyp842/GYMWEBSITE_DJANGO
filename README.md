@@ -1,1 +1,19 @@
 # GYMWEBSITE_DJANGO
+HOMEPAGE:
+file:///C:/Users/win%2010/Downloads/home.png
+LOGIN:
+file:///C:/Users/win%2010/Downloads/login.png
+SIGNUP:
+file:///C:/Users/win%2010/Downloads/signup.png
+ENROLL:
+file:///C:/Users/win%2010/Downloads/enroll.png
+ATTENDENSE:
+file:///C:/Users/win%2010/Downloads/attendence.png
+PROFILE:
+file:///C:/Users/win%2010/Downloads/attendence1234.png
+ABOUT:
+file:///C:/Users/win%2010/Downloads/abt.png
+GALLERY:
+file:///C:/Users/win%2010/Downloads/gallery.png
+SERVICES:
+file:///C:/Users/win%2010/Downloads/services.png
